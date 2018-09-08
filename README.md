@@ -1,5 +1,4 @@
 
-
   # Your First IDE Lab
 
   Now that you've learned about the Learn IDE, it's time to solve your first
